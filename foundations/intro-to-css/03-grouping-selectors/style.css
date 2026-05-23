@@ -1,1 +1,14 @@
-/* Add CSS Styling */
+.bandw
+{
+    background-color: black; 
+    color: white;
+}
+.yelback
+{
+    background-color: yellow; 
+}
+.bandw, .yelback
+{
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
