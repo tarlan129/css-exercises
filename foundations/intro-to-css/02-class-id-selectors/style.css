@@ -1,1 +1,19 @@
-/* Add CSS Styling */
+.odd
+{
+    background-color: lightcoral;
+    font-family: Verdana, "Dejavu Sans", sans-serif;
+}
+#blur
+{
+    color:blue;
+    font-size: 36px;
+}
+#focus
+{
+    background-color: lightgreen;
+    font-weight: bold;
+}
+.font
+{
+    font-size: 24px;
+}
